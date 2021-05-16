@@ -1,0 +1,9 @@
+# pip install -r requirements.txt
+jupyter
+geopandas
+pandas
+matplotlib
+bs4
+descartes
+seaborn
+requests
